@@ -1,0 +1,23 @@
+button {
+    float: right;
+    margin-right: 90px;
+}
+.page_steroides {
+    background-color: black;
+    height: 750px;
+}
+img {
+    height: 160px;
+    width: 160px;
+    border-radius: 40px;
+}
+p {
+    color: white;
+}
+section {
+    background-color: rgb(37, 24, 218);
+    height: 90px;
+}
+td {
+    color:red;
+}

@@ -1,0 +1,15 @@
+.suplement-page {
+    background-color: black;
+    height: 1800px;
+
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+#delog {
+    float: right;
+}
+th {
+    color: white;
+}

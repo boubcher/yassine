@@ -1,0 +1,53 @@
+#logo {
+    height: 120px;
+    width: 120px;
+}
+#user {
+    height: 50px;
+    width: 50px;
+    border-radius: 60px;
+}
+li {
+    display: inline-block;
+    margin-left: 70px;
+}
+.photos {
+    height: 50px;
+    width: 50px;
+}
+#image_deux {
+    height: 120px;
+    width: 120px;
+}
+#image_trois {
+    height: 120px;
+    width: 120px;
+}
+#image_quatre {
+    height: 120px;
+    width: 120px;
+}
+#image_un {
+    height: 120px;
+    width: 120px;
+}
+.photoslist {
+    text-align: center;
+}
+.todolist {
+    text-align: center;
+}
+.page {
+    background-color: black;
+    height: 1700px;
+}
+span {
+    color: red;
+}
+#iconpanier {
+    color: white;
+    
+}
+p {
+    color: white;
+}

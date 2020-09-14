@@ -1,0 +1,14 @@
+form {
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-family: Arial;
+}
+label {
+    color: white;
+}
+button {
+    background-color: green;
+    color: white;
+}
